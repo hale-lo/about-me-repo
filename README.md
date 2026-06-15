@@ -98,3 +98,10 @@ Here is a checklist showing some Markdown features I have used in this README:
 * [x] Inline code using backticks
 * [x] Code blocks
 * [ ] Animated GIF
+
+---
+
+##Repository Link
+
+You can view this repository on GitHub here:
+[My About Me Repository](https://github.com/hale-lo/about-me-repo)
