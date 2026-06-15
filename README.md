@@ -101,7 +101,7 @@ Here is a checklist showing some Markdown features I have used in this README:
 
 ---
 
-##Repository Link
+## Repository Link
 
 You can view this repository on GitHub here:
 [My About Me Repository](https://github.com/hale-lo/about-me-repo)
