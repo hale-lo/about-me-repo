@@ -22,8 +22,6 @@ One thing I really enjoy about Japanese is how much meaning can be hidden inside
 
 For example:
 
-### 白昼夢
-
 `白昼夢` is read as **はくちゅうむ** (*hakuchūmu*) and means **daydream**.
 
 It can be broken down like this:
