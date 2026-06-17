@@ -1,4 +1,4 @@
-# About Me Repo
+# About Me
 
 This repository is my first proper attempt at using GitHub to practise Markdown and create a README about myself.
 
@@ -12,7 +12,7 @@ At the moment, I am especially interested in Japanese, data science, note taking
 
 ## A Little About Me
 
-### My Interest in Japanese
+### Japanese Language Learning
 
 One of my biggest personal interests is Japanese. I lived in Kyoto for eight months, where I studied the language and met my wife. Living there gave me a much stronger connection to the language, because it was not just something I was learning from a textbook. It became part of everyday life.
 
@@ -20,11 +20,9 @@ I am currently around lower-intermediate level, roughly N4, and I would like to 
 
 One thing I really enjoy about Japanese is how much meaning can be hidden inside individual words. Because many words are built from kanji, you can often break them down and see how the meaning has been formed.
 
-For example:
+For example, the word `白昼夢` is read as **はくちゅうむ** (*hakuchūmu*) and means **daydream**. Table 1 shows how the word can be broken down into individual kanji.
 
-`白昼夢` is read as **はくちゅうむ** (*hakuchūmu*) and means **daydream**.
-
-It can be broken down like this:
+**Table 1: Kanji breakdown of 白昼夢.**
 
 | Kanji | Reading  | Meaning         |
 | ----- | -------- | --------------- |
@@ -38,7 +36,7 @@ I like examples like this because they show how Japanese can feel both logical a
 
 ---
 
-### Why Data Science Interests Me
+### Data Science
 
 Data science interests me because it is a way of making sense of information. I like the idea that a messy collection of data can be cleaned, organised and explored until patterns start to appear.
 
@@ -87,9 +85,9 @@ Markdown is useful because it is simple, readable and quick to write. For exampl
 
 ---
 
-### Markdown Practice
+## Markdown Practice
 
-Here is a checklist showing some Markdown features I have used in this README:
+This README has given me the opportunity to practise a range of Markdown features. The checklist below shows which features I have included so far.
 
 * [x] Headings
 * [x] Bullet points
@@ -104,4 +102,5 @@ Here is a checklist showing some Markdown features I have used in this README:
 ## Repository Link
 
 You can view this repository on GitHub here:
+
 [My About Me Repository](https://github.com/hale-lo/about-me-repo)
